@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Cedarville+Cursive|Emilys+Candy&display=swap');
+
+body{
+    font-family: sans-serif;
+}
+
+.titre{
+    width: 10%;
+    display: inline-block;
+}
+
+.boutons{
+    width: 80%;
+    display: inline-block;
+}
+
+h1{
+    color: #d85a6f;
+    font-family: 'Emilys Candy', cursive;
+}
+
+h2{
+    color: #7c57be;
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+a{
+    color: #7c57be;
+    background-color: #ff5e5e;
+    border-style: initial;
+}
+
+.bonbons{
+    
+    display: inline-block;
+    width: 25%;
+    box-sizing: border-box;
+    border-radius: 2em white solid;
+    background-image: url('../images/background_block.jpg');
+}
+
+.cross{
+    color: red;
+}
